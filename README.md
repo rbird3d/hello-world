@@ -1,2 +1,2 @@
 # hello-world
-Learning web development: "knee deep" into Javascript and JQuery.
+Learning web development: diving into Javascript and JQuery.
