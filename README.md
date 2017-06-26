@@ -1,3 +1,2 @@
 # hello-world
-test1
-Learning web development: cleaned up the onclick commands to better reflect user experience
+Learning web development: diving into Javascript and JQuery.
